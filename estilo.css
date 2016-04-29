@@ -1,7 +1,5 @@
 
 /*SELECTOR DE ETIQUETA*/
-
-
 h1,h2 {
     background: #1d64aa;
     color: aquamarine;
@@ -10,8 +8,6 @@ h1,h2 {
 
 
 /*SELECTOR UNIVERSAL*/
-
-
 *{
     margin: 20px;
     padding: 0;
@@ -19,8 +15,9 @@ h1,h2 {
 }
 
 
-/*SELECTOR DESCENDENTE*/
 
+
+/*SELECTOR DESCENDENTE*/
 p a{
     color: red;
     font-size: 20px;
@@ -31,6 +28,8 @@ p span a{
     color: green;
     font-size: 20px;
 }
+
+
 
 /*SELECTOR DE CLASE*/
 
@@ -52,6 +51,24 @@ p span a{
 #texto{
     color:aqua;
 }
+
+#lorem{
+    color: violet;
+}
+
+
+/*SELECTOR COMBINADO */
+div #texto{
+
+    color: blue;
+    font-size: 15;
+    text-align: center;
+    text-align: justify;
+    width:650px;
+    height:80px;
+    margin:2rem auto;
+}
+
 
 
 
