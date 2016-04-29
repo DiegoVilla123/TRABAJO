@@ -107,3 +107,31 @@ a[href^="http://"] {
 }
 
 
+/*SELECTOR DE ATRIBUTO TERMINA CON PROPIO CSS3*/
+
+p[id*="comentario"] {
+    background: #1fdb59;
+
+
+}
+
+
+a:visited{
+    color:#d6598e;
+    text-decoration: none;
+
+}
+
+a:link{
+    color:red;
+    text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
