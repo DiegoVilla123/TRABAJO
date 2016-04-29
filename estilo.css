@@ -38,8 +38,23 @@ p span a{
     color:darkmagenta;
     font-size: 25px;
 
+}
+
+.red{
+    color:olivedrab;
+    font-size: 20px;
 
 }
+
+
+/*SELECTOR DE ID*/
+
+#texto{
+    color:aqua;
+}
+
+
+
 
 
 
