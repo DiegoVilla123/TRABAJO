@@ -145,6 +145,10 @@ p[title~="parrafo"]{
 }
 
 
+/*SELECTOR DE ATRIBUTO CON VALOR SEPARADOS POR GUION*/
 
+p[title|="parrafo7"]{
+     background: #3e5c21;
+}
 
 
