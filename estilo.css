@@ -6,6 +6,17 @@ h1,h2 {
 }
 
 
+.1{
+    background: red;
+    color:black;
+    text-align: center;
+    text-align: justify;
+    width:650px;
+    height:80px;
+    margin:2rem auto;
+
+}
+
 
 /*SELECTOR UNIVERSAL*/
 *{
