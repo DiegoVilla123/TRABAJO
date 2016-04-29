@@ -90,6 +90,12 @@ p[title]{
 
 }
 
+/*SELECTOR DE ATRIBUTO CON VALOR EXACTO*/
+
+p[class="parrafo cinco"]{
+     background: #a19ce3;
+    color: yellow;
+}
 
 
 
