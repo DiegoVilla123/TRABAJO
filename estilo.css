@@ -21,5 +21,25 @@ h1,h2 {
 
 /*SELECTOR DESCENDENTE*/
 
+p a{
+    color: red;
+    font-size: 20px;
+}
+
+
+p span a{
+    color: green;
+    font-size: 20px;
+}
+
+/*SELECTOR DE CLASE*/
+
+.yellow{
+    color:darkmagenta;
+    font-size: 25px;
+
+
+}
+
 
 
