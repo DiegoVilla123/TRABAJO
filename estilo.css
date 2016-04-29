@@ -82,4 +82,15 @@ section>div>article> #texto{
 
 
 
+/*SELECTOR DE ATRIBUTO*/
+
+p[title]{
+
+    background: #48abe0;
+
+}
+
+
+
+
 
