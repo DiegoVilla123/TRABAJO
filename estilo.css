@@ -1,22 +1,25 @@
 
-/*SELECTOR DE ETIQUETA
+/*SELECTOR DE ETIQUETA*/
 
 
 h1,h2 {
     background: #1d64aa;
     color: aquamarine;
 }
-*/
 
 
-/*SELECTOR UNIVERSAL
+
+/*SELECTOR UNIVERSAL*/
 
 
 *{
-    margin: 0;
+    margin: 20px;
     padding: 0;
 
-}*/
+}
+
+
+/*SELECTOR DESCENDENTE*/
 
 
 
