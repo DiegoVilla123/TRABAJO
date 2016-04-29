@@ -99,4 +99,11 @@ p[class="parrafo cinco"]{
 
 
 
+/*SELECTOR DE ATRIBUTO COMIENZA CON PROPIO CSS3*/
+
+a[href^="http://"] {
+    background: #c13d7f;
+
+}
+
 
