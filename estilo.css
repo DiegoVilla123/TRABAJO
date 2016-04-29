@@ -69,7 +69,16 @@ div #texto{
     margin:2rem auto;
 }
 
+div #texto2{
 
+    color: red;
+    font-size: 130;
+    text-align: center;
+    text-align: justify;
+    width:650px;
+    height:80px;
+    margin:2rem auto;
+}
 /* SELECTOR DE HIJO (>)*/
 
 section>div>article> #texto{
@@ -102,7 +111,7 @@ p[class="parrafo cinco"]{
 /*SELECTOR DE ATRIBUTO COMIENZA CON PROPIO CSS3*/
 
 a[href^="http://"] {
-    background: #c13d7f;
+    background: #9debaf;
 
 }
 
@@ -117,13 +126,13 @@ p[id*="comentario"] {
 
 
 a:visited{
-    color:#d6598e;
+    color:#000000;
     text-decoration: none;
 
 }
 
 a:link{
-    color:red;
+    color:blue;
     text-decoration: none;
 
 }
