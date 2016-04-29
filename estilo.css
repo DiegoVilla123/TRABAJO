@@ -70,6 +70,14 @@ div #texto{
 }
 
 
+/* SELECTOR DE HIJO (>)*/
+
+section>div>article> #texto{
+
+    background: #d33333;
+    color: black;
+
+}
 
 
 
